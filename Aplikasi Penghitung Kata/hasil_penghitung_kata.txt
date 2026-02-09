@@ -1,0 +1,5 @@
+=== HASIL PENGHITUNG KATA ===
+Jumlah Kata: 19
+Jumlah Karakter: 111
+Jumlah Kalimat: 2
+Jumlah Paragraf: 1
